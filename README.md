@@ -1,7 +1,7 @@
 ## ⇢ Bem vindo(a), me chamo Felipe Tavela! 🙋🏻‍♂️
 
 
-  - 💻 Sou desenvolvedor iOS!
+  💻 
 
 <div align="left">
   <a href="https://github.com/felipetavela">
