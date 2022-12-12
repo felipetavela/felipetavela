@@ -2,10 +2,6 @@
 
 
   - 💻 Sou desenvolvedor iOS!
-  - 📚 Estudando no momento:
-    - Design Patterns;
-    - API;
-    - Git. 
 
 <div align="left">
   <a href="https://github.com/felipetavela">
